@@ -1,9 +1,10 @@
 System Engineer from 22.02 ~
 
 
-Skills
 
-Windows
+Learnings
+
+MS
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/89124609/FF6D9757C8CC2BE7?sharingId=DDC140888DA4F8D8"><img src="https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main" height="16" alt="Microsoft Applied Skills"> <strong>Microsoft Applied Skills: Administer Active Directory Domain Services</strong></a>
 
