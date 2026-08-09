@@ -4,14 +4,11 @@ System Engineer from 22.02 ~
 
 Learnings
 
-MS
+- MS
+  - <a href="https://learn.microsoft.com/api/credentials/share/en-us/89124609/FF6D9757C8CC2BE7?sharingId=DDC140888DA4F8D8"><img src="https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main" height="16" alt="Microsoft Applied Skills"> <strong>Microsoft Applied Skills: Administer Active Directory Domain Services</strong></a>
 
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/89124609/FF6D9757C8CC2BE7?sharingId=DDC140888DA4F8D8"><img src="https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main" height="16" alt="Microsoft Applied Skills"> <strong>Microsoft Applied Skills: Administer Active Directory Domain Services</strong></a>
-
-
-Linux Foundation
-
-<a href="https://www.credly.com/badges/d9c8d295-4f7c-4708-a6d2-5879cda513b8/public_url"><img src="https://images.credly.com/images/e05777b4-2eba-4421-9741-90547ac41d58/blob" height="48" alt="LFEL1009: Getting Started with OpenTofu"> <strong>LFEL1009: Getting Started with OpenTofu</strong></a>
+- Linux Foundation
+  - <a href="https://www.credly.com/badges/d9c8d295-4f7c-4708-a6d2-5879cda513b8/public_url"><img src="https://images.credly.com/images/e05777b4-2eba-4421-9741-90547ac41d58/blob" height="16" alt="LFEL1009: Getting Started with OpenTofu"> <strong>LFEL1009: Getting Started with OpenTofu</strong></a>
 <!--
 **anyangiyang/anyangiyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
