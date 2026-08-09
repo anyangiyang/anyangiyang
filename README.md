@@ -11,7 +11,7 @@ MS
 
 Linux Foundation
 
-Getting Started with OpenTofu (LFEL1009)
+<a href="https://www.credly.com/badges/d9c8d295-4f7c-4708-a6d2-5879cda513b8/public_url"><img src="https://images.credly.com/images/e05777b4-2eba-4421-9741-90547ac41d58/blob" height="48" alt="LFEL1009: Getting Started with OpenTofu"> <strong>LFEL1009: Getting Started with OpenTofu</strong></a>
 <!--
 **anyangiyang/anyangiyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
